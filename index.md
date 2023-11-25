@@ -5,7 +5,7 @@
 ### Category Name 1 - Power BI
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/475257_Data_Design_xl-1024-v1-0.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
